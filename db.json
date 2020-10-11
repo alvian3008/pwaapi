@@ -1,0 +1,24 @@
+{
+"products"=  [
+{"id":1,"nama":"Dromedary camel","category":"Puce"},
+{"id":2,"nama":"Cat, european wild","category":"Turquoise"},
+{"id":3,"nama":"Woodchuck","category":"Green"},
+{"id":4,"nama":"Blue-faced booby","category":"Puce"},
+{"id":5,"nama":"Southern brown bandicoot","category":"Crimson"},
+{"id":6,"nama":"Heron, gray","category":"Crimson"},
+{"id":7,"nama":"Burmese black mountain tortoise","category":"Puce"},
+{"id":8,"nama":"Purple grenadier","category":"Crimson"},
+{"id":9,"nama":"Jacana, african","category":"Turquoise"},
+{"id":10,"nama":"Jackal, asiatic","category":"Orange"},
+{"id":11,"nama":"African lynx","category":"Crimson"},
+{"id":12,"nama":"Sea birds (unidentified)","category":"Violet"},
+{"id":13,"nama":"Oriental short-clawed otter","category":"Turquoise"},
+{"id":14,"nama":"Large-eared bushbaby","category":"Violet"},
+{"id":15,"nama":"Camel, dromedary","category":"Indigo"},
+{"id":16,"nama":"Armadillo, common long-nosed","category":"Yellow"},
+{"id":17,"nama":"Roe deer","category":"Puce"},
+{"id":18,"nama":"Green vine snake","category":"Violet"},
+{"id":19,"nama":"Curlew, black","category":"Fuscia"},
+{"id":20,"nama":"Bustard, denham's","category":"Pink"}
+]
+}
